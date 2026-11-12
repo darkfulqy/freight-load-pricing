@@ -1,0 +1,21 @@
+# --- Dataset stays out of the repo (internship rule) ---
+data/
+dataset.zip
+freight_load_pricing/
+*.csv
+
+# --- Python ---
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS / editor ---
+.DS_Store
+.idea/
+.vscode/
+.claude/
